@@ -2,10 +2,10 @@
 <resources>
 
     <!-- Application Name -->
-    <string name="app_name">Rajawali Wallpaper Template</string>
+    <string name="app_name">3d wallpaper test</string>
 
     <!-- Name in Live Wallpaper Picker list -->
-    <string name="lwp_name">Rajawali Template</string>
+    <string name="lwp_name">3d wallpaper test</string>
 
     <!-- Description in Live Wallpaper Picker list -->
     <string name="lwp_desc">Example wallpaper that uses Rajawali, an open-source OpenGL ES 2.x engine for Android.</string>
